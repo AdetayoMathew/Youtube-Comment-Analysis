@@ -1,4 +1,6 @@
 # Youtube-Comment-Analysis
+![Picture1](https://github.com/user-attachments/assets/5683645d-0584-4c58-b953-11f368fcab25)
+
 # Objective
 The objective of this project is to analyze and understand the engagement and interaction patterns in the YouTube comment sections of the collaboration between Young Jonn and Davido. The focus is on understanding the volume, timing, and response to comments in order to gauge fan engagement and artist popularity.
 
